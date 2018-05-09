@@ -1,6 +1,12 @@
 # chlorella vulgaris
 * can [bind heavy metals](https://www.nihadc.com/library/detox-for-life-class-2-addit-resources/54-4-dosing-with-chlorella/file.html?accept_license=1) in the body
 * you can buy it [here](https://www.carolina.com/algae/chlorella-vulgaris-bacteria-free-living/152075.pr?question=chlorella)
+* unfortunately chlorella is very difficult to crack (and therefore the nutrients and detox are hard to get)
+
+# spirulina
+* easier to absorb
+* can also do [detox](https://www.sciencedirect.com/science/article/pii/S0045653504007209)
+* you could do a two-chamber system wherein the first chamber detoxes the water and the second chamber is for food
 
 # setup
 * a tank with a bubbler, etc.
